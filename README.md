@@ -1,7 +1,7 @@
 # this-is-java
-"이것이 자바다 공부 기록용 저장소";
-📚 Study Book: "이것이 자바다" by 신용권;
-🧑‍💻 Author: 허진  ;
+"이것이 자바다 공부 기록용 저장소"
+📚 Study Book: "이것이 자바다" by 신용권
+🧑‍💻 Author: 허진  
 🗓️ Started: 2025-03
 
 
